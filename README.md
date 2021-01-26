@@ -1,1 +1,1 @@
-# Burpsuite Professional 2020.12.1
+# Burpsuite Loader java 9+
